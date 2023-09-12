@@ -1,0 +1,24 @@
+{
+  "name": "pratham-string-checker",
+  "version": "1.0.0",
+  "description": "This is for checking if the string is pratham or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PRATHAM1ST/learn-npm-package.git"
+  },
+  "keywords": [
+    "pratham",
+    "check",
+    "string"
+  ],
+  "author": "pratham1st",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PRATHAM1ST/learn-npm-package/issues"
+  },
+  "homepage": "https://github.com/PRATHAM1ST/learn-npm-package#readme"
+}
